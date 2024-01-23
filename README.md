@@ -1,7 +1,13 @@
-Web app: 
-
+### This App Does: 
 Simply takes in your submission text, store in database and print it on pages when you hit view button.
 
-Mobile app: 
+### Web App Tech Stack:
+- Backend - Java
+- Frontend - React.js / Redux, HTML/CSS
+- Database: PostgreSQL
 
-Do the same but in Swift for Apple, Flutter for Android, try React Native for both.
+### Mobile Apps Tech Stack:
+These apps do the same but in:
+- Swift fo Apple (Xcode)
+- Flutter for Android (Android Studio)
+- React Native (IntelliJ) for both.
