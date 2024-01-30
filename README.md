@@ -1,5 +1,6 @@
 ### This App Does: 
 Simply takes in your submission text, store in database and print it on pages when you hit view button.
+Login/Logout Support
 
 ### Web App Tech Stack:
 Version 1
